@@ -3,6 +3,8 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import SinglePost from "../components/SinglePost";
 
+
+
 export default function Home() {
   return (
     <>
