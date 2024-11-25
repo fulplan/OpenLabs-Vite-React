@@ -1,20 +1,18 @@
-import Home from "./Pages/Home.jsx";
-import About from "./Pages/About.jsx";
-import Contact from "./Pages/Contact.jsx";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
-
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Home from "./Home";
+import AboutUs from "./AboutUs";
+import ContactUs from "./ContactUs";
 
 function App() {
-  return(
-    <BrowserRouter>
-     <Routes>
-      <Route path="/" Component={Home}/>
-      <Route path="/about-us" Component={About}/>
-      <Route path="/contact-us" Component={Contact}/>
-     </Routes>
-    </BrowserRouter>
-  )
+    return (
+        <Router>
+            <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/about-us" element={<AboutUs />} />
+                <Route path="/contact-us" element={<ContactUs />} />
+            </Routes>
+        </Router>
+    );
 }
-
 
 export default App;
