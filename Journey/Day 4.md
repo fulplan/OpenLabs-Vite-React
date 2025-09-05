@@ -19,23 +19,20 @@
 
 _What did I learn about CSS and its purpose?_
 
--
-
----
+- ***
 
 ## Basic Concepts
 
 _What are the basics of CSS? How do I include CSS in HTML?_
 
--
-
----
+- ***
 
 ## Selectors
 
 _What types of selectors did I learn?_
 
--
+- element
+- tag element
 
 ---
 
@@ -43,49 +40,37 @@ _What types of selectors did I learn?_
 
 _What did I learn about margin, border, padding, and content?_
 
--
-
----
+- ***
 
 ## Layout Techniques
 
 _What layout methods did I study (Flexbox, Grid, etc.)?_
 
--
-
----
+- ***
 
 ## Styling Text
 
 _What did I learn about styling text?_
 
--
-
----
+- ***
 
 ## Responsive Design
 
 _What did I learn about making designs responsive?_
 
--
-
----
+- ***
 
 ## Animations & Transitions
 
 _What did I learn about CSS animations and transitions?_
 
--
-
----
+- ***
 
 ## Useful Resources
 
 _What resources did I find helpful?_
 
--
-
----
+- ***
 
 ## Notes
 
