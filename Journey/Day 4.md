@@ -40,6 +40,8 @@ _What types of selectors did I learn?_
 
 _What did I learn about margin, border, padding, and content?_
 
+- not yet
+
 - ***
 
 ## Layout Techniques
