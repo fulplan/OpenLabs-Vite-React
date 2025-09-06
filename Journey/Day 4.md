@@ -48,6 +48,8 @@ _What did I learn about margin, border, padding, and content?_
 
 _What layout methods did I study (Flexbox, Grid, etc.)?_
 
+- not yet complete
+
 - ***
 
 ## Styling Text
